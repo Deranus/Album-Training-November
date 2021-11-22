@@ -25,6 +25,5 @@ Plato
 <img src="Plato/20211114215412_1.jpg" />
 <img src="Plato/20211114215445_1.jpg" />
 <img src="Plato/20211114215507_1.jpg" />
-<img src="Plato/20211114215702_1.jpg" />
 <img src="Plato/20211114211518_1.jpg" />
 <img src="Plato/20211114211513_1.jpg" />
