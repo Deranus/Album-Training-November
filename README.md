@@ -6,7 +6,7 @@ Album Training November
 <h2 align="center" style="border-bottom: none">
 Scud Storage
 </h2>
-Note the two MG bunkers on the south.
+Note the two MG bunkers on the south side.
 <BR><BR>
 <img src="Scud Storage/20211107222332_1.jpg" />
 
