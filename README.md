@@ -2,4 +2,4 @@
  Pictures of November
 
 
-Scud Storage/20211107215532_12.png
+<img src="Scud Storage/20211107215532_12.png" />
